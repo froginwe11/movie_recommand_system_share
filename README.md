@@ -11,7 +11,7 @@ python django javascript bootstrap jquery 协同过滤 推荐算法 机器学习
 
 ## 视频
 
-> **点击查看 \>\>\> [演示视频]()**
+> **点击查看 \>\>\> [演示视频](https://www.bilibili.com/video/BV1v34y1C7Dt/)**
 
 ## 截图
 
